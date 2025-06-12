@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Learn PHP",
+        "completed": false
+    },
+    {
+        "title": "Build a project",
+        "completed": true
+    }
+]
